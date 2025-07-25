@@ -8,6 +8,7 @@ export OPENLANE_IMAGE_OVERRIDE=ghcr.io/tinytapeout/openlane2:ihp-v3.0.0.dev23
 
 abc
 wasmtime
+klayout
 
 # Install from Arch AUR:
 
